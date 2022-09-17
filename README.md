@@ -31,3 +31,9 @@ Processing time: 2.401 seconds.
 ```
 
 ## feature-2
+
+### What It Does
+This feature creates a file named "text.txt" if it does not already exists in this directory, opens the file, and appends the sentence "Hello World" to the end of the file.
+
+### How To Run
+The main function of this feature will be executed within the main function of feature-1.
