@@ -9,7 +9,7 @@ def main():
     processing_time = (end-start).total_seconds() * 1000
     print(f"Start time: {start}.")
     print(f"End time: {end}.")
-    print(f"Processing time: {processing_time} seconds.")
+    print(f"Processing time: {processing_time} milliseconds.")
 
 if __name__ == "__main__" : 
     main()
