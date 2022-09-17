@@ -37,3 +37,7 @@ This feature creates a file named "text.txt" if it does not already exists in th
 
 ### How To Run
 The main function of this feature will be executed within the main function of feature-1.
+
+### Sample Output
+A file called "text.txt" will be created, if not already there, and a new line of "Hello World" will be appended to the text file.
+![image-1](./image-1.png)
